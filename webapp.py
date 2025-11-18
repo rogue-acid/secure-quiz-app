@@ -36,6 +36,10 @@ def question5():
 @app.route('/p6')
 def question6():
     return render_template('page6.html')
+
+@app.route('/results')
+def results():
+    return render_template('results.html')
     
 
     

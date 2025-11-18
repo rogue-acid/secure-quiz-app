@@ -1,3 +1,9 @@
 body {
 	background-color: Azure
 }
+
+.center {
+	display: block;
+	margin: auto;
+	
+}
